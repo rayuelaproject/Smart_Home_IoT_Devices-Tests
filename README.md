@@ -15,7 +15,7 @@ The security and privacy tests that are interesting to study in home IoT devices
  <li><strong>Sending of information and firmware updates via HTTP</strong>: The mobile app receives firmware updates and sends requests with sensitive information using HTTP without TLS.</li>
 </ul>
 
- <p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+ <p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
 
@@ -45,7 +45,7 @@ For its part, the operation process performed during the analysis of smart home 
  <li>Disconnection.</li>
 </ul>
  
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 
 </div>
@@ -60,6 +60,6 @@ The results of security and privacy tests show that those low-cost devices have 
 On the other hand, high-end commercial devices use robust and secure pairing methods such as ZeroConf, which ensures a secure communication from the initial moment of use of this type of device.
 <br />
 <br />
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
